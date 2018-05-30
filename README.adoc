@@ -1,0 +1,15 @@
+= Jenkins Workshop
+
+== Requisitos
+
+* https://git-scm.com/download[Git^]
+* https://www.docker.com/community-edition[Docker^]
+
+== Setup
+
+Los siguientes pasos deben ejecutarse previo al workshop
+
+. Clonar o descargar este repositorio
+. Ejecutar `docker-compose build`
+
+image::https://media.giphy.com/media/tXL4FHPSnVJ0A/giphy.gif[]

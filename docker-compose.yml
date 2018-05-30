@@ -1,0 +1,16 @@
+version: '2'
+services:
+  jenkins-server:
+    build:
+      context: jenkins
+    ports:
+      - 8080:8080
+    volumes: 
+      - "todo-repository:/var/jenkins_home/.m2"
+  repo:
+    image: jenkinsperu/todo-demo-repository:1.0
+    volumes: 
+      - "todo-repository:/maven-repository"
+
+volumes: 
+  todo-repository:
