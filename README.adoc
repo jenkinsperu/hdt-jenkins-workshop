@@ -5,6 +5,8 @@
 * https://git-scm.com/download[Git^]
 * https://www.docker.com/community-edition[Docker^]
 
+NOTE: En el caso de tener problemas al instalar docke-for-windows. Favor de instalar, docker toolbox.
+
 == Setup
 
 Los siguientes pasos deben ejecutarse previo al workshop
