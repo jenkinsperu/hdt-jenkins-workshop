@@ -5,7 +5,7 @@
 * https://git-scm.com/download[Git^]
 * https://www.docker.com/community-edition[Docker^]
 
-NOTE: En el caso de tener problemas al instalar docke-for-windows. Favor de instalar, docker toolbox.
+NOTE: En el caso de tener problemas al instalar docke-for-windows. Favor de instalar, https://docs.docker.com/toolbox/toolbox_install_windows/[docker toolbox^].
 
 == Setup
 
